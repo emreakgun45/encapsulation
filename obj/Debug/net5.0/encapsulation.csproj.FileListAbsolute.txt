@@ -1,0 +1,16 @@
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.exe
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.dll
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\bin\Debug\net5.0\ref\encapsulation.dll
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.dll
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
